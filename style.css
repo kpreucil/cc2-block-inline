@@ -1,0 +1,47 @@
+/* Put your CSS rules here: */
+
+
+
+
+
+/* These are for the exercise, please don't edit them! */
+html,body{margin:0;padding:0;}
+body{font-family:sans-serif;}
+.content{width:980px;padding:10px;}
+
+/* Exercise one*/
+.picture_container{
+    border-style: solid;
+    border-color: blue;
+    border-width: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+    background-color: black;
+}
+
+/* Exercise 2 */
+.span_container{
+    font-weight: bold;
+}
+.two{
+    font-style: italic;
+}
+.three{
+    font-style: italic;
+    text-decoration: underline;
+}
+
+/*Exercise three */
+
+.tiled_container{
+    border-top-style: solid;
+    border-bottom-style: solid;
+    border-top-color: black;
+    border-bottom-color: black;
+    border-top-width: 5px;
+    border-bottom-width: 5px;
+    padding: 10px;
+    background-color: white;
+    width: 100%;
+    
+}
